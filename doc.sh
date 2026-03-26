@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#simply run this file and get Jenkins installed on your EC2 machine !
+#simply run this file and get Dcoker compose installed on your EC2 machine !
 
 sudo apt update
 sudo apt install ca-certificates curl gnupg lsb-release -y
