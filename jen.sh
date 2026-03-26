@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#simply run this file and get Jenkins installed on your EC2 machine !
+
 #install java
 sudo apt update
 sudo apt install openjdk-21-jre -y
