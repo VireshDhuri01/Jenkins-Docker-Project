@@ -63,7 +63,7 @@ http://<PUBLIC-IP>:5000
 * Install Jenkins
 * Install Docker Compose
 * ❌Don't install normal Docker (docker.io)
-* Use the scripts provided for Jenkins and Docker compose installation
+* **Use the scripts provided for Jenkins and Docker compose installation**
   
 ---
 
